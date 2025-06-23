@@ -2,7 +2,7 @@ import { useState } from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 import Home from "./pages/Home";
-import Menu from "./pages/Menu";
+import MenuPage from "./pages/MenuPage";
 import Footer from "./components/Footer";
 
 function App() {
@@ -98,7 +98,7 @@ function App() {
       {/* Page Content */}
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/menu" element={<Menu />} />
+        <Route path="/menu" element={<MenuPage />} />
       </Routes>
 
       <Footer />

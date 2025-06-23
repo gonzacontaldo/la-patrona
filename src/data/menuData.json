@@ -6,55 +6,55 @@
         "name": "Nachos",
         "description": "Crispy homemade corn chips, topped with beans, pico de gallor, mozzarella cheese, sour cream and guacamole.",
         "price": 15.00,
-        "image": "/images/starters/nachos.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Nachos with Meat",
         "description": "Withe the meat of your choice.",
         "price": 19.99,
-        "image": "/images/starters/nachosmeat.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Salchipapas",
         "description": "Mix of fried juicy vienna sausages combined with corn tortilla bites and fries. Topped with tomato sauce, sour cream and mustard.",
         "price": 15.0,
-        "image": "/images/starters/salchipapas.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Queso Fundido",
         "description": "Melted cheese topped with chorizo, served with corn chips.",
         "price": 19.99,
-        "image": "/images/starters/quesofundido.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Pescadillas",
         "description": "Fried corn tortilla filled with fish or shrimp, topped with coleslaw, chipotle mayo and pico de gallo.",
         "price": 19.99,
-        "image": "/images/starters/pescadillas.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Papa Rellena",
         "description": "Baked potato, melted cheese and the meat of your choice, topped with pico de gallo, guacamole, mayo and sour cream.",
         "price": 19.99,
-        "image": "/images/starters/paparellena.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Chicharrones",
         "description": "Crispy fired pork skin served with guacamole and sauce.",
         "price": 13.5,
-        "image": "/images/starters/chicharrones.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Calamar Frito",
         "description": "Crispy breaded squid with our tasty signature mango chipotle sauce.",
         "price": 15.0,
-        "image": "/images/starters/calamarfrito.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Ceviche La Patrona",
         "description": "Our Ceviche, Tender fresh fish is marinated in zesty lime, Mango, cilantro, a touch if spice, and a dash of avocado Served chilled and garnished with fresh herbs.",
         "price": 19.99,
-        "image": "/images/starters/ceviche.jpg"
+        "image": "/images/nachos.jpg"
       }
     ]
   },
@@ -69,55 +69,55 @@
             "name": "Carne Asada",
             "description": "Grilled beef marinated with citrus and beer.",
             "price": 18.5,
-            "image": "/images/main/tacos/carneasada.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Birria",
             "description": "Jalisco style pulled beef.",
             "price": 18.5,
-            "image": "/images/main/tacos/birria.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Pastor",
             "description": "Grilled pork marinated with pineapple.",
             "price": 18.5,
-            "image": "/images/main/tacos/pastor.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Carnitas",
             "description": "Pulled pork.",
             "price": 18.5,
-            "image": "/images/main/tacos/carnitas.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Chorizo",
             "description": "Ground pork marinated with spices.",
             "price": 18.5,
-            "image": "/images/main/tacos/chorizo.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Basa fish or shrimp",
             "description": "Crispy beer-battered fresh basa fish",
             "price": 18.5,
-            "image": "/images/main/tacos/fish.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Veggie",
             "description": "Grilled pepper and onions topped with pico de gallo.",
             "price": 18.5,
-            "image": "/images/main/tacos/veggie.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Quesadilla",
             "description": "Flour tortilla, mossarella cheese, cilantro, onions and the meat of your chioce.",
             "price": 15.0,
-            "image": "/images/main/tacos/quesadilla.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Burrito",
             "description": "Flour tortilla with mozzarella cheese, pico de gallo, beans, guacamole and the meat of your choice.",
             "price": 18.5,
-            "image": "/images/main/tacos/burrito.jpg"
+            "image": "/images/nachos.jpg"
           }
         ]
       },
@@ -128,55 +128,55 @@
             "name": "Carne en su Jugo",
             "description": "Small pieces of flank steak cooked in their juices, mixed with whole beans and crispy crumbled bacon.",
             "price": 17.99,
-            "image": "/images/main/special/carneensujugo.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Birriamen",
             "description": "Jalisco birria broth, fresh noodles, topped with our delicious beef tender meat, chopped onions and cilantro.",
             "price": 19.99,
-            "image": "/images/main/special/birriamen.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Pizzabirria",
             "description": "2 large flour tortilla with cheese, delicious beef tender meat, grilled jalapeños and coriander.",
             "price": 22.0,
-            "image": "/images/main/special/pizzabirria.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Sopa de Tortilla",
             "description": "Traditional tomato soup topped with corn chips, sour cream and avocado.",
             "price": 10.99,
-            "image": "/images/main/special/sopa.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Enmoladas",
             "description": "Corn tortillas filled with chicken and covered in mexican mole, topped with sour cream, cheese and onion. Mexican rice on the side.",
             "price": 19.99,
-            "image": "/images/main/special/enmoladas.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Enchiladas Verdes",
             "description": "Corn tortillas filled with chicken and covered in green sauce topped with sour cream, cheese and onion. Mexican rice on the side.",
             "price": 19.99,
-            "image": "/images/main/special/enchiladas.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Chilaquiles Verdes",
             "description": "Tortilla chipps in green sauce",
             "price": 19.99,
-            "image": "/images/main/special/chilaquiles.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Aguachile Verde de Camarón",
             "description": "Shrimp, fresh lime, cucumber and habanero.",
             "price": 22.5,
-            "image": "/images/main/special/aguachile.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Pescado Frito",
             "description": "Our fried fish accompanied with rice, salad and tortillas.",
             "price": 22.0,
-            "image": "/images/main/special/pescadofrito.jpg"
+            "image": "/images/nachos.jpg"
           }
         ]
       },
@@ -187,7 +187,7 @@
             "name": "Sushi Patrona",
             "description": "Sushi rice, philadelphia cheese, avocado deep fried with Mexican Carne Asada or shrimp.",
             "price": 15.99,
-            "image": "/images/main/sushi/sushi.jpg"
+            "image": "/images/nachos.jpg"
           }
         ]
       },
@@ -198,19 +198,19 @@
             "name": "La Patrona",
             "description": "Crispy bun, juicy 100% grilled canadian beef, mossarella cheese, bacon, lettuce, tomato, caramelized onion and our signature sauce. w/Papas Fritas.",
             "price": 15.0,
-            "image": "/images/main/burgers/lapatrona.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Hawaiana",
             "description": "Crispy bun, juicy 100% grilled canadian beef, ham, bacon, grilled pineapple, mozzarella cheese, lettuce, tomato, grilled onion and our house sauce. w/Papas Fritas.",
             "price": 18.0,
-            "image": "/images/main/burgers/hawaiana.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Chickenburger",
             "description": "Crispy bun, fried chicken, mozzarella cheese, lettuce, tomato, and our house sauce. w/Papas Fritas.",
             "price": 15.0,
-            "image": "/images/main/burgers/chickenburger.jpg"
+            "image": "/images/nachos.jpg"
           }
         ]
       },
@@ -218,10 +218,10 @@
         "name": "Chicken Wings",
         "items": [
           {
-            "name": "Wings accompanied with celery fries, ranch dressing and the sauce of your choice. ( HONEY GARLIC | LEMON PEPPER | BBQ | CAJUN | BUFALO )",
-            "description": "BBQ chicken wings.",
+            "name": "Chicken Wings",
+            "description": "Wings accompanied with celery fries, ranch dressing and the sauce of your choice. \n( HONEY GARLIC - LEMON PEPPER - BBQ - CAJUN - BUFALO ",
             "price": 9.0,
-            "image": "/images/main/wings/bbq.jpg"
+            "image": "/images/nachos.jpg"
           }
         ]
       }
@@ -234,19 +234,19 @@
         "name": "Churro Cheescake",
         "description": "Cheescake recipe coating with a churro layer, cinamon, sugar.",
         "price": 9.0,
-        "image": "/images/desserts/churrocheescake.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Pastel 3 Leches",
         "description": "Sponge cake dipped in our 3 leches sauce and topped with deshydrated pineapple.",
         "price": 9.0,
-        "image": "/images/desserts/pasteltresleches.jpg"
+        "image": "/images/nachos.jpg"
       },
       {
         "name": "Arroz con Leche",
         "description": "Rice Pudding with cinammon",
         "price": 6.5,
-        "image": "/images/main/desserts/arrozconleche.jpg"
+        "image": "/images/nachos.jpg"
     }
     ]
   },
@@ -260,25 +260,25 @@
             "name": "POPS",
             "description": "Coca-cola, Ginger Ale, Fresca, Tonic Water.",
             "price": 3.0,
-            "image": "/images/drinks/non-alcoholic/pops.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Red Bull",
             "description": "",
             "price": 5.50,
-            "image": "/images/drinks/non-alcoholic/redbull.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Nestea",
             "description": "",
             "price": 3,
-            "image": "/images/drinks/non-alcoholic/nestea.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Water Bottle",
             "description": "",
             "price": 2,
-            "image": "/images/drinks/non-alcoholic/Water Bottle.jpg"
+            "image": "/images/nachos.jpg"
           }
         ]
       },
@@ -289,13 +289,13 @@
             "name": "Margarita Clásica",
             "description": "Lime and tequila cocktail.",
             "price": 9.0,
-            "image": "/images/drinks/alcoholic/margarita.jpg"
+            "image": "/images/nachos.jpg"
           },
           {
             "name": "Michelada",
             "description": "Beer with lime, chili and sauces.",
             "price": 8.0,
-            "image": "/images/drinks/alcoholic/michelada.jpg"
+            "image": "/images/nachos.jpg"
           }
         ]
       }

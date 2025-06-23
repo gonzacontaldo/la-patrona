@@ -46,7 +46,7 @@ const Hero = () => {
           data-aos-delay="300"
         >
           <a
-            href="#menu"
+            href="/menu"
             className="btn btn-lg"
             style={{ backgroundColor: "#E36396", color: "#FCFAFA" }}
           >
