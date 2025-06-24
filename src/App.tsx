@@ -38,13 +38,17 @@ function App() {
         }}
       >
         <div className="d-flex justify-content-between align-items-center mb-4">
-          <h4
-            style={{
-              fontFamily: "'Playfair Display', serif",
-              color: "#E36396",
-            }}
-          >
-            Navigation
+          <h4>
+            <a
+              href="/"
+              style={{
+                textDecoration: "none",
+                fontFamily: "'Playfair Display', serif",
+                color: "#090A16",
+              }}
+            >
+              LA PATRONA
+            </a>
           </h4>
           <i className="bi bi-x-lg fs-4" role="button" onClick={toggleNav}></i>
         </div>
