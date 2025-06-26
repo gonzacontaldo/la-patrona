@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 import Home from "./pages/Home";
 import MenuPage from "./pages/MenuPage";
+import BookTable from "./pages/BookTable";
 import Footer from "./components/Footer";
 
 function App() {
@@ -56,7 +57,7 @@ function App() {
         <ul className="list-unstyled">
           <li className="mb-3">
             <a
-              href="#about"
+              href="/#about"
               className="nav-link-hover text-dark d-flex align-items-center gap-2"
             >
               <i className="bi bi-info-circle-fill text-primary"></i> About Us
@@ -73,7 +74,7 @@ function App() {
           </li>
           <li className="mb-3">
             <a
-              href="#book"
+              href="/book"
               className="nav-link-hover text-dark d-flex align-items-center gap-2"
             >
               <i className="bi bi-calendar-check text-success"></i> Book Table
@@ -81,7 +82,7 @@ function App() {
           </li>
           <li className="mb-3">
             <a
-              href="#party"
+              href="/book"
               className="nav-link-hover text-dark d-flex align-items-center gap-2"
             >
               <i className="bi bi-balloon-heart text-pink"></i> Party
@@ -90,7 +91,7 @@ function App() {
           </li>
           <li className="mb-3">
             <a
-              href="#contact"
+              href="/#contact"
               className="nav-link-hover text-dark d-flex align-items-center gap-2"
             >
               <i className="bi bi-envelope-paper text-info"></i> Contact Us
@@ -103,6 +104,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/menu" element={<MenuPage />} />
+        <Route path="/book" element={<BookTable />} />
       </Routes>
 
       <Footer />

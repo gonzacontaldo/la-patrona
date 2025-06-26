@@ -53,14 +53,14 @@ const Hero = () => {
             View Menu
           </a>
           <a
-            href="#book"
+            href="/book"
             className="btn btn-lg"
             style={{ backgroundColor: "#16DFBA", color: "#090A16" }}
           >
             Book Table
           </a>
           <a
-            href="#party"
+            href="/book"
             className="btn btn-lg"
             style={{ backgroundColor: "#21DEE8", color: "#090A16" }}
           >
