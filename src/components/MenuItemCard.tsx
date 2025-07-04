@@ -6,9 +6,12 @@ interface Props {
 }
 
 const MenuItemCard: React.FC<Props> = ({ item }) => {
+  const hasImage =
+    item.image && item.image.trim() !== "" && item.image.trim() !== "/images/";
+
   return (
     <div
-      className="card h-100 text-light"
+      className="card h-100 text-light d-flex flex-column"
       style={{
         backgroundColor: "#1b1c1c",
         border: "2px solid #E36396",
@@ -27,21 +30,29 @@ const MenuItemCard: React.FC<Props> = ({ item }) => {
         el.style.boxShadow = "none";
       }}
     >
-      {/* Image */}
-      <img
-        src={item.image}
-        alt={item.name}
-        className="card-img-top"
-        onError={(e) => (e.currentTarget.src = "/images/fallback.jpg")}
-        style={{
-          height: "200px",
-          objectFit: "cover",
-          borderBottom: "2px solid #E36396",
-        }}
-      />
+      {/* Only show image if it exists */}
+      {hasImage && (
+        <img
+          src={item.image}
+          alt={item.name}
+          className="card-img-top"
+          onError={(e) => (e.currentTarget.src = "/images/fallback.jpg")}
+          style={{
+            height: "200px",
+            objectFit: "cover",
+            borderBottom: "2px solid #E36396",
+          }}
+        />
+      )}
 
       {/* Content */}
-      <div className="card-body d-flex flex-column justify-content-between">
+      <div
+        className={`card-body d-flex flex-column ${
+          hasImage
+            ? "justify-content-between"
+            : "justify-content-center align-items-center text-center"
+        }`}
+      >
         <h5
           className="card-title fw-bold text-uppercase mb-2"
           style={{ color: "#FCFAFA" }}
@@ -50,7 +61,11 @@ const MenuItemCard: React.FC<Props> = ({ item }) => {
         </h5>
         <p
           className="card-text small"
-          style={{ color: "#CCCCCC", fontSize: "0.9rem", marginTop: "0.5rem" }}
+          style={{
+            color: "#CCCCCC",
+            fontSize: "0.9rem",
+            marginTop: "0.5rem",
+          }}
         >
           {item.description}
         </p>

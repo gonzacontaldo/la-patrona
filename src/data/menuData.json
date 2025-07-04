@@ -111,7 +111,7 @@
             "name": "Quesadilla",
             "description": "Flour tortilla, mossarella cheese, cilantro, onions and the meat of your chioce.",
             "price": 15.0,
-            "image": ""
+            "image": "/images/principales/quesadillas.jpg"
           },
           {
             "name": "Burrito",
