@@ -16,3 +16,32 @@
   transform: scale(0.95);
   transition: opacity 300ms, transform 300ms;
 }
+
+/* Responsive title adjustments */
+@media (max-width: 480px) {
+  .menu-title {
+    letter-spacing: 1px !important;
+    text-shadow: 1px 1px 5px #E36396 !important;
+  }
+  .menu-title .emoji {
+    font-size: 1rem;
+  }
+}
+
+/* Button hover animations */
+.menu-button:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease;
+}
+
+/* Fade-in for title on load */
+.fade-in {
+  animation: fadeIn 1.2s ease forwards;
+  opacity: 0;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}

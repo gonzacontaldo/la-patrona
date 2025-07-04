@@ -6,55 +6,55 @@
         "name": "Nachos",
         "description": "Crispy homemade corn chips, topped with beans, pico de gallor, mozzarella cheese, sour cream and guacamole.",
         "price": 15.00,
-        "image": "/images/nachos.jpg"
+        "image": "/images/entradas/nachos.jpg"
       },
       {
         "name": "Nachos with Meat",
         "description": "Withe the meat of your choice.",
         "price": 19.99,
-        "image": "/images/nachos.jpg"
+        "image": ""
       },
       {
         "name": "Salchipapas",
         "description": "Mix of fried juicy vienna sausages combined with corn tortilla bites and fries. Topped with tomato sauce, sour cream and mustard.",
         "price": 15.0,
-        "image": "/images/nachos.jpg"
+        "image": ""
       },
       {
         "name": "Queso Fundido",
         "description": "Melted cheese topped with chorizo, served with corn chips.",
         "price": 19.99,
-        "image": "/images/nachos.jpg"
+        "image": ""
       },
       {
         "name": "Pescadillas",
         "description": "Fried corn tortilla filled with fish or shrimp, topped with coleslaw, chipotle mayo and pico de gallo.",
         "price": 19.99,
-        "image": "/images/nachos.jpg"
+        "image": ""
       },
       {
         "name": "Papa Rellena",
         "description": "Baked potato, melted cheese and the meat of your choice, topped with pico de gallo, guacamole, mayo and sour cream.",
         "price": 19.99,
-        "image": "/images/nachos.jpg"
+        "image": "/images/entradas/papas.jpg"
       },
       {
         "name": "Chicharrones",
         "description": "Crispy fired pork skin served with guacamole and sauce.",
         "price": 13.5,
-        "image": "/images/nachos.jpg"
+        "image": ""
       },
       {
         "name": "Calamar Frito",
         "description": "Crispy breaded squid with our tasty signature mango chipotle sauce.",
         "price": 15.0,
-        "image": "/images/nachos.jpg"
+        "image": ""
       },
       {
         "name": "Ceviche La Patrona",
         "description": "Our Ceviche, Tender fresh fish is marinated in zesty lime, Mango, cilantro, a touch if spice, and a dash of avocado Served chilled and garnished with fresh herbs.",
         "price": 19.99,
-        "image": "/images/nachos.jpg"
+        "image": "/images/entradas/ceviche.jpg"
       }
     ]
   },
@@ -69,55 +69,55 @@
             "name": "Carne Asada",
             "description": "Grilled beef marinated with citrus and beer.",
             "price": 18.5,
-            "image": "/images/nachos.jpg"
+            "image": "/images/principales/carneasada.jpg"
           },
           {
             "name": "Birria",
             "description": "Jalisco style pulled beef.",
             "price": 18.5,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Pastor",
             "description": "Grilled pork marinated with pineapple.",
             "price": 18.5,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Carnitas",
             "description": "Pulled pork.",
             "price": 18.5,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Chorizo",
             "description": "Ground pork marinated with spices.",
             "price": 18.5,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Basa fish or shrimp",
             "description": "Crispy beer-battered fresh basa fish",
             "price": 18.5,
-            "image": "/images/nachos.jpg"
+            "image": "/images/principales/tacospescado.jpg"
           },
           {
             "name": "Veggie",
             "description": "Grilled pepper and onions topped with pico de gallo.",
             "price": 18.5,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Quesadilla",
             "description": "Flour tortilla, mossarella cheese, cilantro, onions and the meat of your chioce.",
             "price": 15.0,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Burrito",
             "description": "Flour tortilla with mozzarella cheese, pico de gallo, beans, guacamole and the meat of your choice.",
             "price": 18.5,
-            "image": "/images/nachos.jpg"
+            "image": "/images/principales/burrito.jpg"
           }
         ]
       },
@@ -128,55 +128,55 @@
             "name": "Carne en su Jugo",
             "description": "Small pieces of flank steak cooked in their juices, mixed with whole beans and crispy crumbled bacon.",
             "price": 17.99,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Birriamen",
             "description": "Jalisco birria broth, fresh noodles, topped with our delicious beef tender meat, chopped onions and cilantro.",
             "price": 19.99,
-            "image": "/images/nachos.jpg"
+            "image": "/images/principales/sopa.jpg"
           },
           {
             "name": "Pizzabirria",
             "description": "2 large flour tortilla with cheese, delicious beef tender meat, grilled jalapeños and coriander.",
             "price": 22.0,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Sopa de Tortilla",
             "description": "Traditional tomato soup topped with corn chips, sour cream and avocado.",
             "price": 10.99,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Enmoladas",
             "description": "Corn tortillas filled with chicken and covered in mexican mole, topped with sour cream, cheese and onion. Mexican rice on the side.",
             "price": 19.99,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Enchiladas Verdes",
             "description": "Corn tortillas filled with chicken and covered in green sauce topped with sour cream, cheese and onion. Mexican rice on the side.",
             "price": 19.99,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Chilaquiles Verdes",
             "description": "Tortilla chipps in green sauce",
             "price": 19.99,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Aguachile Verde de Camarón",
             "description": "Shrimp, fresh lime, cucumber and habanero.",
             "price": 22.5,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Pescado Frito",
             "description": "Our fried fish accompanied with rice, salad and tortillas.",
             "price": 22.0,
-            "image": "/images/nachos.jpg"
+            "image": " "
           }
         ]
       },
@@ -187,7 +187,7 @@
             "name": "Sushi Patrona",
             "description": "Sushi rice, philadelphia cheese, avocado deep fried with Mexican Carne Asada or shrimp.",
             "price": 15.99,
-            "image": "/images/nachos.jpg"
+            "image": "/images/principales/sushi.jpg"
           }
         ]
       },
@@ -198,19 +198,19 @@
             "name": "La Patrona",
             "description": "Crispy bun, juicy 100% grilled canadian beef, mossarella cheese, bacon, lettuce, tomato, caramelized onion and our signature sauce. w/Papas Fritas.",
             "price": 15.0,
-            "image": "/images/nachos.jpg"
+            "image": "/images/principales/hamburguesalapatrona.jpg"
           },
           {
             "name": "Hawaiana",
             "description": "Crispy bun, juicy 100% grilled canadian beef, ham, bacon, grilled pineapple, mozzarella cheese, lettuce, tomato, grilled onion and our house sauce. w/Papas Fritas.",
             "price": 18.0,
-            "image": "/images/nachos.jpg"
+            "image": ""
           },
           {
             "name": "Chickenburger",
             "description": "Crispy bun, fried chicken, mozzarella cheese, lettuce, tomato, and our house sauce. w/Papas Fritas.",
             "price": 15.0,
-            "image": "/images/nachos.jpg"
+            "image": "/images/principales/hamburguesachicken.jpg"
           }
         ]
       },
@@ -221,7 +221,7 @@
             "name": "Chicken Wings",
             "description": "Wings accompanied with celery fries, ranch dressing and the sauce of your choice. \n( HONEY GARLIC - LEMON PEPPER - BBQ - CAJUN - BUFALO ",
             "price": 9.0,
-            "image": "/images/nachos.jpg"
+            "image": "/images/principales/alitas.jpg"
           }
         ]
       }
@@ -234,19 +234,19 @@
         "name": "Churro Cheescake",
         "description": "Cheescake recipe coating with a churro layer, cinamon, sugar.",
         "price": 9.0,
-        "image": "/images/nachos.jpg"
+        "image": "/images/postres/churrocheesecake.jpg"
       },
       {
         "name": "Pastel 3 Leches",
         "description": "Sponge cake dipped in our 3 leches sauce and topped with deshydrated pineapple.",
         "price": 9.0,
-        "image": "/images/nachos.jpg"
+        "image": "/images/postres/torta.jpg"
       },
       {
         "name": "Arroz con Leche",
         "description": "Rice Pudding with cinammon",
         "price": 6.5,
-        "image": "/images/nachos.jpg"
+        "image": "/images/postres/arrozconleche.jpg"
     }
     ]
   },
@@ -260,42 +260,370 @@
             "name": "POPS",
             "description": "Coca-cola, Ginger Ale, Fresca, Tonic Water.",
             "price": 3.0,
-            "image": "/images/nachos.jpg"
+            "image": "/images/bebidas/pops.png"
           },
           {
             "name": "Red Bull",
             "description": "",
             "price": 5.50,
-            "image": "/images/nachos.jpg"
+            "image": "/images/bebidas/redbull.jpg"
           },
           {
             "name": "Nestea",
             "description": "",
             "price": 3,
-            "image": "/images/nachos.jpg"
+            "image": "/images/bebidas/nestea.jpg"
           },
           {
             "name": "Water Bottle",
             "description": "",
             "price": 2,
-            "image": "/images/nachos.jpg"
+            "image": "/images/bebidas/water.jpg"
           }
         ]
       },
       {
-        "name": "Alcoholic",
+        "name": "Cockteils",
         "items": [
           {
             "name": "Margarita Clásica",
             "description": "Lime and tequila cocktail.",
-            "price": 9.0,
-            "image": "/images/nachos.jpg"
+            "price": 13.0,
+            "image": "/images/bebidas/margarita.jpg"
           },
           {
             "name": "Michelada",
-            "description": "Beer with lime, chili and sauces.",
+            "description": "Beer of your choice with lime, chili and sauces.",
+            "price": 14.0,
+            "image": "/images/bebidas/michelada.jpg"
+          },
+          {
+            "name": "Mojito",
+            "description": "Rum, mint, lime and soda.",
+            "price": 13.0,
+            "image": "/images/bebidas/mojito.jpg"
+          },
+          {
+            "name": "Paloma",
+            "description": "Tequila, grapefruit soda and lime.",
+            "price": 13.0,
+            "image": "/images/bebidas/paloma.jpg"
+          },
+          {
+            "name": "Old Fashioned",
+            "description": "Whiskey, bitters, sugar and orange.",
+            "price": 13.0,
+            "image": "/images/bebidas/oldfashioned.jpg" 
+          },
+          {
+            "name": "Cesar",
+            "description": "Vodka, clamato, lime and spices.",
+            "price": 13.0,
+            "image": "/images/bebidas/cesar.jpg"
+          },
+          {
+            "name": "Piña Colada",
+            "description": "Rum, coconut cream and pineapple.",
+            "price": 14.0,
+            "image": "/images/bebidas/pinacolada.jpg"
+          },
+          {
+            "name": "Patrona",
+            "description": "Vodka",
+            "price": 14.0,
+            "image": ""
+          },
+          {
+            "name": "Sex on the Beach",
+            "description": "Vodka, peach schnapps, orange juice and grenadine.",
+            "price": 13.0,
+            "image": "/images/bebidas/sexonthebeach.jpg"
+          },
+          {
+            "name": "Blue Dragon",
+            "description": "Vodka",
+            "price": 13.0,
+            "image": ""
+          },
+          {
+            "name": "Mezcalita",
+            "description": "Mezcal, lime, orange and chili.",
+            "price": 14.0,
+            "image": "/images/bebidas/mezcalita.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Beers",
+        "items": [
+          {
+            "name": "Corona",
+            "description": "Light and refreshing with a hint of lime.",
             "price": 8.0,
-            "image": "/images/nachos.jpg"
+            "image": "/images/bebidas/corona.jpg"
+          },
+          {
+            "name": "Modelo Especial",
+            "description": "Crisp and refreshing lager.",
+            "price": 9.0,
+            "image": "/images/bebidas/modeloespecial.jpg"
+          },
+          {
+            "name": "Modelo Negra",
+            "description": "Rich and full-bodied dark beer.",
+            "price": 9.0,
+            "image": "/images/bebidas/modelonegra.jpg"
+          },
+          {
+            "name": "Heineken",
+            "description": "Crisp and refreshing lager.",
+            "price": 8.0,
+            "image": "/images/bebidas/heineken.jpg"
+          },
+          {
+            "name": "Stella",
+            "description": "Crisp and refreshing lager.",
+            "price": 8.0,
+            "image": "/images/bebidas/stella.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wine",
+        "items": [
+          {
+            "name": "Red Wine",
+            "description": "A selection of fine red wines.",
+            "price": 10.0,
+            "image": ""
+          },
+          {
+            "name": "White Wine",
+            "description": "A selection of fine white wines.",
+            "price": 9.0,
+            "image": ""
+          }
+        ]
+      },
+      {
+        "name": "Rum",
+        "items": [
+          {
+            "name": "Captain Morgan",
+            "description": "Spiced rum with a hint of vanilla and caramel.",
+            "price": 8.0,
+            "image": ""
+          },
+          {
+            "name": "Appleton",
+            "description": "Jamaican rum with a rich, full-bodied flavor.",
+            "price": 8.0,
+            "image": ""
+          },
+          {
+            "name": "Bacardi",
+            "description": "Light and smooth rum, perfect for cocktails.",
+            "price": 8.0,
+            "image": ""
+          },
+          {
+            "name": "Havana Club",
+            "description": "Cuban rum with a rich, complex flavor.",
+            "price": 9.0,
+            "image": ""
+          },
+          {
+            "name": "Flor de Caña",
+            "description": "Nicaraguan rum with a smooth, balanced taste.",
+            "price": 10.0,
+            "image": ""
+          }
+        ]
+      },
+      {
+        "name": "Whiskey",
+        "items": [
+          {
+            "name": "Red Label",
+            "description": "Smooth and rich blended Scotch whisky.",
+            "price": 10.0,
+            "image": ""
+          },
+          {
+            "name": "Black Label",
+            "description": "Premium blended Scotch whisky with a complex flavor.",
+            "price": 15.0,
+            "image": ""
+          },
+          {
+            "name": "Jameson",
+            "description": "Smooth Irish whiskey with a hint of vanilla.",
+            "price": 10.0,
+            "image": ""
+          },
+          {
+            "name": "Crown Royal",
+            "description": "Canadian whisky with a smooth, rich flavor.",
+            "price": 8.0,
+            "image": ""
+          },
+          {
+            "name": "Jack Daniel's",
+            "description": "Tennessee whiskey with a smooth, mellow flavor.",
+            "price": 10.0,
+            "image": ""
+          },
+          {
+            "name": "Bullet Bourbon",
+            "description": "Spicy and bold bourbon with a hint of sweetness.",
+            "price": 11.0,
+            "image": ""
+          }
+        ]
+      },
+      {
+        "name": "Cognac",
+        "items": [
+          {
+            "name": "Hennessy",
+            "description": "Rich and smooth cognac with a hint of oak.",
+            "price": 14.0,
+            "image": ""
+          }
+        ]
+      },
+      {
+        "name": "Gin",
+        "items": [
+          {
+            "name": "Bombay",
+            "description": "Premium gin with a blend of botanicals.",
+            "price": 9.0,
+            "image": ""
+          },
+          {
+            "name": "Tanqueray",
+            "description": "Classic London dry gin with a crisp taste.",
+            "price": 10.0,
+            "image": ""
+          }
+        ]
+      },
+      {
+        "name": "Champagne",
+        "items": [
+          {
+            "name": "Moët Imperial",
+            "description": "Iconic champagne with a fresh and fruity flavor.",
+            "price": 200.0,
+            "image": ""
+          },
+          {
+            "name": "Brut Rosé",
+            "description": "Elegant rosé champagne with a delicate balance of fruitiness and acidity.",
+            "price": 240.0,
+            "image": ""
+          },
+          {
+            "name": "Ice Imperial",
+            "description": "Chilled champagne with a refreshing taste.",
+            "price": 235.0,
+            "image": ""
+          },
+          {
+            "name": "Nectar Imperial Rosé",
+            "description": "Luxurious rosé champagne with a rich and fruity profile.",
+            "price": 245.0,
+            "image": ""
+          }
+        ]
+      },
+      {
+        "name": "Tequila",
+        "items": [
+          {
+            "name": "Tradicional Plata",
+            "description": "Smooth and pure silver tequila with a hint of citrus.",
+            "price": 9.0,
+            "image": ""
+          },
+          {
+            "name": "Tromba",
+            "description": "Premium tequila with a smooth finish.",
+            "price": 11.0,
+            "image": ""
+          },
+          {
+            "name": "1800 Blanco",
+            "description": "Crisp and clean blanco tequila with a hint of sweetness.",
+            "price": 10.0,
+            "image": ""
+          },
+          {
+            "name": "1800 Reposado",
+            "description": "Aged reposado tequila with a rich flavor.",
+            "price": 10.0,
+            "image": ""
+          },
+          {
+            "name": "Don Julio Blanco",
+            "description": "Premium blanco tequila with a smooth and balanced taste.",
+            "price": 15.0,
+            "image": ""
+          },
+          {
+            "name": "Don Julio Reposado",
+            "description": "Aged reposado tequila with a rich and complex flavor.",
+            "price": 18.0,
+            "image": ""
+          },
+          {
+            "name": "Patrón",
+            "description": "High-quality tequila with a smooth finish.",
+            "price": 17.0,
+            "image": ""
+          },
+          {
+            "name": "Herradura",
+            "description": "Premium tequila with a rich and complex flavor.",
+            "price": 14.0,
+            "image": ""
+          },
+          {
+            "name": "Flecha Azul",
+            "description": "Premium tequila with a smooth and balanced taste.",
+            "price": 17.0,
+            "image": ""
+          },
+          {
+            "name": "Casa Amigos Blanco",
+            "description": "Smooth and crisp blanco tequila with a hint of citrus.",
+            "price": 16.0,
+            "image": ""
+          },
+          {
+            "name": "Casa Amigos Reposado",
+            "description": "Aged reposado tequila with a rich and complex flavor.",
+            "price": 19.0,
+            "image": ""
+          },
+          {
+            "name": "Don Julio 70",
+            "description": "Aged tequila with a smooth and balanced taste.",
+            "price": 23.0,
+            "image": ""
+          },
+          {
+            "name": "Clase Azul",
+            "description": "Luxury tequila with a smooth and refined taste.",
+            "price": 40.0,
+            "image": ""
+          },
+          {
+            "name": "Don Julio 1942",
+            "description": "Aged tequila with a rich and complex flavor.",
+            "price": 35.0,
+            "image": ""
           }
         ]
       }

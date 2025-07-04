@@ -2,7 +2,7 @@ import React, { useState, useRef } from "react";
 import menuData from "../data/menuData.json";
 import MenuSection from "../components/MenuSection";
 import { CSSTransition, SwitchTransition } from "react-transition-group";
-import "./MenuPage.css"; // for animation styles
+import "./MenuPage.css"; // Make sure this file has your responsive CSS
 
 const MenuPage: React.FC = () => {
   const [selectedIndex, setSelectedIndex] = useState(0);
@@ -20,10 +20,11 @@ const MenuPage: React.FC = () => {
   return (
     <div className="min-vh-100" style={{ backgroundColor: "#090A16" }}>
       <div className="container py-5 text-center">
+        {/* Title */}
         <h1
-          className="text-center mb-5"
+          className="text-center mb-5 menu-title"
           style={{
-            fontSize: "3.5rem",
+            fontSize: "clamp(1.8rem, 6vw, 3.5rem)", // Responsive scaling
             color: "#FCFAFA",
             letterSpacing: "2px",
             fontWeight: 800,
