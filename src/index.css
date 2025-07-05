@@ -106,3 +106,11 @@ html {
   text-decoration: underline;
 }
 
+.menu-icon-btn {
+  transition: all 0.3s ease;
+}
+
+.menu-icon-btn:hover {
+  background-color: #d85786; /* slightly darker pink on hover */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}

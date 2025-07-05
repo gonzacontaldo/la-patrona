@@ -1,4 +1,4 @@
-import logo from "../assets/logo.jpg";
+import logo from "/images/logo.jpg";
 
 const Footer = () => {
   return (
@@ -82,19 +82,20 @@ const Footer = () => {
               Contact
             </h5>
             <p className="mb-2">
-              <i className="bi bi-telephone-fill me-2"></i> +1 (123) 456-7890
+              <i className="bi bi-telephone-fill me-2"></i> +1 (437) 233-5075
             </p>
             <p className="mb-2">
-              <i className="bi bi-envelope-fill me-2"></i> contact@lapatrona.com
+              <i className="bi bi-envelope-fill me-2"></i>{" "}
+              carretojenny149@gmail.com
             </p>
             <p className="mb-2">
               <a
-                href="https://instagram.com/LaPatronaRestaurant"
+                href="https://instagram.com/lapatrona.toronto"
                 target="_blank"
                 rel="noreferrer"
                 className="footer-link"
               >
-                <i className="bi bi-instagram me-2"></i> @LaPatronaRestaurant
+                <i className="bi bi-instagram me-2"></i> @lapatrona.toronto
               </a>
             </p>
           </div>

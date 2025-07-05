@@ -1,12 +1,19 @@
 import React from "react";
-import type { Subcategory as SubcategoryType } from "../data/menuTypes";
+import type {
+  Subcategory as SubcategoryType,
+  MenuItem,
+} from "../data/menuTypes";
 import MenuItemCard from "./MenuItemCard";
 
 interface Props {
   subcategory: SubcategoryType;
+  onItemClick: (item: MenuItem) => void;
 }
 
-const SubcategoryComponent: React.FC<Props> = ({ subcategory }) => {
+const SubcategoryComponent: React.FC<Props> = ({
+  subcategory,
+  onItemClick,
+}) => {
   return (
     <div className="mb-5">
       {/* Subcategory Title */}
@@ -28,7 +35,11 @@ const SubcategoryComponent: React.FC<Props> = ({ subcategory }) => {
       {/* Menu Items */}
       <div className="row">
         {subcategory.items.map((item, index) => (
-          <div className="col-sm-12 col-md-6 col-lg-4 mb-4" key={index}>
+          <div
+            className="col-sm-12 col-md-6 col-lg-4 mb-4"
+            key={index}
+            onClick={() => onItemClick(item)}
+          >
             <MenuItemCard item={item} />
           </div>
         ))}

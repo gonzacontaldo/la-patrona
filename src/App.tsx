@@ -16,23 +16,34 @@ function App() {
   return (
     <Router>
       {/* Fixed Menu Button */}
-      <div className="position-fixed top-0 end-0 p-4" style={{ zIndex: 5 }}>
+      <div
+        className="position-fixed top-0 end-0 m-3 pt-1 d-flex align-items-center justify-content-center menu-icon-btn"
+        style={{
+          width: "60px",
+          height: "60px",
+          zIndex: 1000,
+          borderRadius: "10%",
+          backgroundColor: "#E36396",
+          border: "2px solid #FCFAFA",
+          transition: "all 0.3s ease",
+        }}
+      >
         <i
-          className="bi bi-list text-white fs-1"
+          className="bi bi-list text-white fs-2"
           role="button"
           onClick={toggleNav}
           style={{ cursor: "pointer" }}
         ></i>
       </div>
 
-      {/* Global Sidebar */}
+      {/* Sidebar */}
       <div
         className={`side-nav vh-100 shadow p-4 position-fixed top-0 end-0 ${
           navOpen ? "slide-in" : "slide-out"
         }`}
         style={{
           width: "280px",
-          zIndex: 10,
+          zIndex: 1100,
           transition: "transform 0.3s ease, opacity 0.3s ease",
           backgroundColor: "#FCFAFA",
           color: "#090A16",

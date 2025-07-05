@@ -40,7 +40,7 @@ const MenuPage: React.FC = () => {
           {tabs.map((tab, i) => (
             <button
               key={i}
-              className={`btn fw-bold px-4 py-2 ${
+              className={`btn fw-bold px-4 py-2 menu-tab-btn ${
                 selectedIndex === i ? "" : "btn-outline-light"
               }`}
               style={{

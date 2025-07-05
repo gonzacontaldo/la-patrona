@@ -45,3 +45,25 @@
     opacity: 1;
   }
 }
+
+
+.menu-tab-btn {
+  min-width: 140px; /* You can adjust this value */
+  flex: 1 1 auto; /* Makes them flexible */
+  text-align: center;
+}
+
+.header-fixed {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.header-fixed.scrolled {
+  background-color: rgba(9, 10, 22, 0.8); /* Semi-transparent dark navy */
+  border-radius: 50%;
+  padding: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
