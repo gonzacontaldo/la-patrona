@@ -39,7 +39,7 @@ const Contact = () => {
                 href="tel:+11234567890"
                 className="contact-link text-decoration-none"
               >
-                <i className="bi bi-telephone-fill me-2"></i> +1 (111) 111-1111
+                <i className="bi bi-telephone-fill me-2"></i> +1 (437) 233-5075
               </a>
               <a
                 href="https://www.instagram.com/lapatrona.toronto/"
@@ -54,7 +54,7 @@ const Contact = () => {
                 className="contact-link text-decoration-none"
               >
                 <i className="bi bi-envelope-fill me-2"></i>{" "}
-                ejemplo@lapatrona.com
+                carretojenny149@gmail.com
               </a>
             </div>
           </div>
