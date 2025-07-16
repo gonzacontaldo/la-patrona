@@ -13,7 +13,8 @@ function App() {
     setNavOpen((prev) => !prev);
   };
 
-  return (
+
+  //return (
     <Router>
       {/* Fixed Menu Button */}
       <div
