@@ -220,7 +220,7 @@
           {
             "name": "Chicken Wings",
             "description": "Wings accompanied with celery fries, ranch dressing and the sauce of your choice. \n( HONEY GARLIC - LEMON PEPPER - BBQ - CAJUN - BUFALO ",
-            "price": 17.99,
+            "price": 9.0,
             "image": "/images/principales/alitas.jpg"
           }
         ]
@@ -363,7 +363,7 @@
             "image": "/images/bebidas/corona.jpg"
           },
           {
-            "name": "Modelo Special",
+            "name": "Modelo Especial",
             "description": "Crisp and refreshing lager.",
             "price": 9.0,
             "image": "/images/bebidas/modeloespecial.jpg"
